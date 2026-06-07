@@ -1,0 +1,33 @@
+{
+  "name": "sueline-tours-and-travel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "studio": "remotion studio src/index.tsx",
+    "render": "remotion render src/index.tsx SuelineTours out/sueline-tours.mp4",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "remotion": {
+    "entryPoint": "src/Root.tsx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:43337/git/japhethogamba945-creator/Sueline-Tours-and-Travel"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@remotion/cli": "^4.0.473",
+    "@remotion/transitions": "^4.0.473",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "remotion": "^4.0.473"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "^6.0.3"
+  }
+}
