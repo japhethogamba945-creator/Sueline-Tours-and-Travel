@@ -1,6 +1,6 @@
 # Multi-Organisation Voting & Governance Platform — Implementation Blueprint (Draft v0.1)
 
-> **Status:** For review and approval. **No code exists yet, and none should be written until this document is approved** (Phase 6 gate).
+> **Status:** **Approved (Phase 1 gate)** with recommended defaults — see [DECISIONS.md](DECISIONS.md). Phase 2–5 drafts: [02-architecture](02-architecture.md), [03-database-design](03-database-design.md), [04-ux-workflows](04-ux-workflows.md), [05-security-review](05-security-review.md). No code until the Phase 5 gate.
 > **Scope of this draft:** sections 14.1–14.7 of the master build prompt.
 > **Labels used throughout:**
 > - **[CONFIRMED]** — stated as a requirement in the master build prompt.
